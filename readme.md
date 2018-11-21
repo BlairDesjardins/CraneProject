@@ -1,3 +1,5 @@
+This is my final project for my Virtual Reality class at Ryerson. It was made entirely by myself using C#, Unity, and the SteamVR package from the Asset Store.
+
 How to play: Play with a normal VR setup while sitting down. Use the triggers to interact with objects. 
 
 Goal: Use the magnet at the end of the crane to place all 4 barrels in the chain-link box.
